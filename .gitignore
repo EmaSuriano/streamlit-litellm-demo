@@ -11,3 +11,4 @@ wheels/
 
 # Streamlit Configuration files
 .streamlit/
+.python-version
