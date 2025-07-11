@@ -4,15 +4,15 @@
 
 This project demonstrates the integration of LiteLLM with Streamlit to create a lightweight and efficient application for AI-powered tasks. LiteLLM is a library designed to simplify interactions with large language models, while Streamlit provides an easy-to-use framework for building interactive web applications.
 
+Check out the live demo of the application running on Streamlit Cloud: [Streamlit LiteLLM Demo](https://emasuriano-litellm-demo.streamlit.app/)
+
+![Preview](https://github.com/user-attachments/assets/87ff53ea-53cf-45f8-8b4f-f6d486d20b08)
+
 ## Features
 
 - Seamless integration with LiteLLM for AI tasks.
 - Interactive and user-friendly interface built with Streamlit.
 - Deployed on Streamlit Cloud for easy access.
-
-## Demo
-
-Check out the live demo of the application running on Streamlit Cloud: [Streamlit LiteLLM Demo](https://emasuriano-litellm-demo.streamlit.app/)
 
 ## Installation
 
