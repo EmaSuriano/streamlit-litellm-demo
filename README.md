@@ -20,21 +20,27 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/EmaSuriano/streamlit-litellm-demo.git
-   cd streamlit-litellm-demo
-   ```
+```bash
+git clone https://github.com/EmaSuriano/streamlit-litellm-demo.git
+cd streamlit-litellm-demo
+```
 
 2. Install the required dependencies using `uv`:
 
-   ```bash
-   uv sync
-   ```
+```bash
+uv sync
+```
 
 3. Run the Streamlit application:
-   ```bash
-   streamlit run app.py
-   ```
+
+```bash
+uv run streamlit run streamlit_app.py
+
+You can now view your Streamlit app in your browser.
+
+Local URL: http://localhost:8501
+Network URL: http://100.64.0.1:8501
+```
 
 ## License
 

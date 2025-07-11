@@ -1,7 +1,7 @@
 [project]
 name = "streamlit-litellm-demo"
 version = "0.1.0"
-description = "This project demonstrates the integration of LiteLLM with Streamlit to create a lightweight and efficient application for AI-powered tasks."
+description = "Integration of LiteLLM with Streamlit for AI-powered tasks."
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
@@ -13,5 +13,3 @@ dependencies = [
 name = "MIT"
 file = "LICENSE"
 
-[tool.uv]
-sync = true
