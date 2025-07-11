@@ -117,9 +117,11 @@ st.markdown("Chat with various AI models using LiteLLM")
 
 # Check if API key and model are provided
 if not st.session_state.api_key or not st.session_state.model:
-    st.warning(
-        "⚠️ Please enter your API key and model name in the sidebar to start chatting."
-    )
+    st.warning("""
+        ⚠️ Please enter your API key and model name in the sidebar to start chatting.
+               
+        🔒 **Privacy Notice:** Your API key is not stored anywhere. It is only kept locally in your browser session.               
+    """)
     st.info("""
     **How to use:**
     1. Enter any model supported by LiteLLM (see sidebar for examples)

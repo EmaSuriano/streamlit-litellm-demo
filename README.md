@@ -6,7 +6,9 @@ This project demonstrates the integration of LiteLLM with Streamlit to create a 
 
 Check out the live demo of the application running on Streamlit Cloud: [Streamlit LiteLLM Demo](https://emasuriano-litellm-demo.streamlit.app/)
 
-![Preview](https://github.com/user-attachments/assets/87ff53ea-53cf-45f8-8b4f-f6d486d20b08)
+| Initial                                                                                   | Chat                                                                                        |
+| ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| ![Empty](https://github.com/user-attachments/assets/4b1ba435-e150-43ab-bcfd-399653e7ebd5) | ![Preview](https://github.com/user-attachments/assets/87ff53ea-53cf-45f8-8b4f-f6d486d20b08) |
 
 ## Features
 
